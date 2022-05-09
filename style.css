@@ -1,0 +1,51 @@
+.header {
+    padding: 10px;
+    text-align: left;
+    color: white;
+    font-size: 30px;
+    font-family: 'Odibee Sans';
+  }
+
+
+#I_button
+{
+    border: 1px solid white;
+    color: white;
+    font-family: 'Odibee Sans';
+    position:absolute;
+    top:0; 
+    right:0;
+    padding: 10px;
+  }
+
+
+
+#Start,#status,#restart
+{
+    font-size: 17px;
+    font-family: 'Odibee Sans';
+    margin: auto;
+    padding: auto;
+    text-align: center;
+}
+
+body
+{
+    background-size: cover;
+    color: white;
+    font-family: 'Odibee Sans';
+}
+
+.modal-body{
+  text-align: left;
+  color: black;
+  font-size: 20;
+}
+
+h3
+{
+  color: black;
+  font-weight: bolder;
+  font-size: 25;
+}
+
